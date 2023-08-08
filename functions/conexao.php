@@ -3,7 +3,7 @@
 	function conectarAoBancoDeDados() {
     $servidor = "localhost"; // substitua pelo nome do servidor do seu banco de dados
     $usuario = "root"; // substitua pelo nome de usuário do seu banco de dados
-    $senha = "191215Ad."; // substitua pela senha do seu banco de dados
+    $senha = "#########"; // substitua pela senha do seu banco de dados
     $bancoDeDados = "3dprinttools"; // substitua pelo nome do banco de dados que deseja conectar
 
     // Criar uma conexão
